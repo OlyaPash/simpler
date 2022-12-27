@@ -1,0 +1,20 @@
+I, [2022-12-27T22:12:10.802671 #290942]  INFO -- : Request: GET: /tests
+I, [2022-12-27T22:12:10.802913 #290942]  INFO -- : Handler: TestsController#index
+I, [2022-12-27T22:12:10.802980 #290942]  INFO -- : Params: {}
+I, [2022-12-27T22:12:10.803024 #290942]  INFO -- : Response: 200 [text/html] tests/index.html.erb
+I, [2022-12-27T22:13:38.165726 #291037]  INFO -- : Request: GET: /tests
+I, [2022-12-27T22:13:38.165943 #291037]  INFO -- : Handler: TestsController#index
+I, [2022-12-27T22:13:38.166041 #291037]  INFO -- : Params: {}
+I, [2022-12-27T22:13:38.166126 #291037]  INFO -- : Response: 200 [text/html] tests/list.html.erb
+I, [2022-12-27T22:14:16.463167 #291083]  INFO -- : Request: GET: /tests
+I, [2022-12-27T22:14:16.463356 #291083]  INFO -- : Handler: TestsController#index
+I, [2022-12-27T22:14:16.463412 #291083]  INFO -- : Params: {}
+I, [2022-12-27T22:14:16.463456 #291083]  INFO -- : Response: 200 [text/plain] 
+I, [2022-12-27T22:15:18.544449 #291160]  INFO -- : Request: GET: /tests
+I, [2022-12-27T22:15:18.544574 #291160]  INFO -- : Handler: TestsController#index
+I, [2022-12-27T22:15:18.544631 #291160]  INFO -- : Params: {}
+I, [2022-12-27T22:15:18.544673 #291160]  INFO -- : Response: 201 [text/html] tests/index.html.erb
+I, [2022-12-27T22:15:52.980394 #291200]  INFO -- : Request: GET: /tests/1
+I, [2022-12-27T22:15:52.980563 #291200]  INFO -- : Handler: TestsController#show
+I, [2022-12-27T22:15:52.980641 #291200]  INFO -- : Params: {:id=>"1"}
+I, [2022-12-27T22:15:52.980686 #291200]  INFO -- : Response: 200 [text/html] tests/show.html.erb
